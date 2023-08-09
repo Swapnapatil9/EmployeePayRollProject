@@ -1,0 +1,44 @@
+{
+  "User": [
+    {
+      "name": "Arohini jadhav",
+      "departments": "[\"Sales\",\"Finance\"]",
+      "profileImage": "../assets/profile-images/Ellipse-1.png",
+      "gender": "female",
+      "salary": "40000",
+      "date": "15/Aug/2023",
+      "notes": "Hello",
+      "id": 1
+    },
+    {
+      "name": "Abhinanadan",
+      "departments": "[\"HR\",\"Finance\",\"Engineer\"]",
+      "profileImage": "../assets/profile-images/Ellipse-8.png",
+      "gender": "male",
+      "salary": "40000",
+      "date": "18/May/2020",
+      "notes": "good",
+      "id": 2
+    },
+    {
+      "name": "Abhiram Deshapande",
+      "departments": "[\"HR\",\"Sales\",\"Finance\"]",
+      "profileImage": "../assets/profile-images/Ellipse-3.png",
+      "gender": "male",
+      "salary": "40000",
+      "date": "16/Jan/2023",
+      "notes": "Hello,its ok",
+      "id": 3
+    },
+    {
+      "name": "swapna ",
+      "departments": "[\"Finance\"]",
+      "profileImage": "../assets/profile-images/Ellipse-1.png",
+      "gender": "female",
+      "salary": "30000",
+      "date": "20/Jan/2020",
+      "notes": "Hii",
+      "id": 5
+    }
+  ]
+}
